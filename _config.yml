@@ -1,18 +1,23 @@
 # Site settings
 title: Seli Purnianda
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+description: '<p>Mahasiswa Sistem informasi TA 2014</p>
+               <p>Fakultas : Sains dan Teknologi</p>
+               <p>Universitas  Islam Negeri Sultan Syarif Kasim Riau</p>'
 url: 'http://selipurnianda.github.io'
 baseurl: '/selipurnianda.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Seli Purnianda'
+  email: selipurnianda@gmail.com
+  twitter_username: 
+  facebook_username: seli purnianda
+  github_username: selipurnianda
+  linkedin_username: selipurnianda
+  uin suska: http://uin-suska.ac.id/
+  sif uin: http://sif.uin-suska.ac.id/
+
 
 defaults:
   -
